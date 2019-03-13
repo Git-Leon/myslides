@@ -116,11 +116,20 @@
 
 -
 #### I don't have the Time
-* Yeah, you do.
+* Spending a little time each day to build on your skills will go a long way
+* Tech skills are so valuable that even with minimal experience, entry positions will become available.
+* As long as you are better today, than you were yesterday, you are moving in the right direction
+  * Tariq Hook, former ZipcodeWilmington Head of Education
+
 
 -
 #### Learning Code is too Expensive
-* Not
+* The beauty of learning to code is that nearly all introductory tech tools are free.
+* Resetting a project is as simple as typing a command.
+* This differs from other industries where physical infrastructure must be undone to resolve issues
+  * Electrical engineers must purchase new motherboards if a chip is fried
+  * Mechanical engineers must purchase new parts if a socket's threading is stripped
+  * Software engineers create a new instance of a project or copy and paste old code to recover previous versioning
 
 
 
@@ -131,6 +140,33 @@
 ### I don't think tech has a presence in industry I'm interested in
 * Yes, it does.
 
+
+
+
+
+
+-
+-
+### What is the picture perfect workplace?
+* A collaborative environment where I'm a full time member of a team
+* Work at home in the morning, with time for kids' soccer practice in the afternoon
+* A video conference with coworkers on my screen... and the beach behind it
+
+
+-
+#### Collaborative environment
+* Yeah, tech has that
+
+
+
+-
+#### Work in morning, kids in afternoon
+* Yeah, tech has that
+
+
+-
+#### Video Conference with Coworkers
+* Yeah, tech has that
 
 
 
