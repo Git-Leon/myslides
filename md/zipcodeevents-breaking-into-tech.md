@@ -33,7 +33,7 @@
 
 -
 #### I've taken a career-break
-* This may be the sector with the greatest job opportunities to start a new career in
+* This may be the sector with the greatest amount of job opportunities to start a new career in
 * Employers need technologists so badly, that the employment process has become very experimental in recent years
   * Employing from programming bootcamps
   * Employing persons with partial computer-science accreditation (regardless of not achieving degree)
