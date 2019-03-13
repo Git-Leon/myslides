@@ -5,7 +5,7 @@
 
 -
 -
-## Consider asking yourself
+## Consider asking yourself the following
 
 -
 ### Where are you in your career?
@@ -33,7 +33,12 @@
 
 -
 #### I've taken a career-break
-* Welcome back to the job hunt
+* This may be the sector with the greatest job opportunities to start a new career in
+* Employers need technologists so badly, that the employment process has become very experimental in recent years
+  * Employing from programming bootcamps
+  * Employing persons with partial computer-science accreditation (regardless of not achieving degree)
+  * Employing persons with _demonstrable_ skill-set necessary for role (regardless of background)
+  * Employing persons who does not meet requirements of company
 
 
 
@@ -59,6 +64,20 @@
 -
 #### More money
 * Tech is one of the highest paying industries
+* According to `Ziprecruiter.com` as of March 8th, 2019
+
+| Job position                 | Average Annual Pay |
+|------------------------------|-------------|
+| Database Manager             | $63,778     |
+| Business Analyst             | $81,405     |
+| Database Administrator       | $83,937     |
+| Software Engineer            | $98,231     |
+| Cyber Security Engineer      | $117,866    |
+| Software Architect           | $128,817    |
+| Big Data Software Engineer   | $135,488    |
+
+
+
 
 -
 #### I'd like to work from home
@@ -69,7 +88,7 @@
 -
 #### I want to be my own boss
 * Because of modern technology, freelance work has become very accessible to developers and technologists
-  * `freelancer.com` offers freelance positions paying between $20/hr to $250/hr
+  * `freelancer.com` is a site seeking freelance programmers to complete projects for $10 to $50,000+.
 
 -
 #### I want job security
@@ -92,9 +111,9 @@
 -
 ### What's your biggest concern about learning tech skills?
 * I'm not smart enough to learn tech!
-* It's too late in my career/life to make this big of a change
 * I don't have time to learn new skills
 * Learning to code is too expensive, I'm not sure it's worth it
+* Inflexible life schedule
 
 
 
@@ -111,10 +130,6 @@
 
 
 -
-#### It's too late in my career
-* Naw, it's not.
-
--
 #### I don't have the Time
 * Spending a little time each day to build on your skills will go a long way
 * Tech skills are so valuable that even with minimal experience, entry positions will become available.
@@ -124,7 +139,7 @@
 
 -
 #### Learning Code is too Expensive
-* The beauty of learning to code is that nearly all introductory tech tools are free.
+* The beauty of learning to code is that _nearly all_ introductory tech tools are free.
 * Resetting a project is as simple as typing a command.
 * This differs from other industries where physical infrastructure must be undone to resolve issues
   * Electrical engineers must purchase new motherboards if a chip is fried
@@ -136,9 +151,22 @@
 
 
 -
--
 ### I don't think tech has a presence in industry I'm interested in
-* Yes, it does.
+* Tech is an omnipresent sector
+* Even dry erase markers are manufactured using automated processes
+  * Automotive industry has seen evidence of how automated processes can flip an industry on its head.
+* Sonographers, dentists, landlords, and even cashiers are becoming dependent on tech to keep up with the changing scene
+
+
+
+-
+### Inflexible life schedule
+* "A third of financial service employees report giving up work-life balance. A fourth said flexibility"
+  * `cnbc.com` - Why people are choosing tech-work over finance-work
+
+
+
+
 
 
 
@@ -155,30 +183,25 @@
 
 -
 #### Collaborative environment
-* Yeah, tech has that
+* Resolving technical issues requires technical help
+* No one person can resolve, or even be aware of, all problems in tech
+* This creates very collaborative environments in the tech sector
+* "If you're the smartest person in the room, you're in the wrong room"
+  * Mark Cuban
+
 
 
 
 -
 #### Work in morning, kids in afternoon
-* Yeah, tech has that
+* Because of the advancements in telecommunications, employers of technologists allow employees to work very flexibly
+* Tech-employers are very well known for creating workplace-accomadations due to a particular lifestyle (parent, adjunct, etc.)
+  * Many tech companies have wellness and recreational centers on-site.
+
+* Tech-employees are valuable and employers are aware that a single well-skilled employee can account for the jobs of tens, hundreds, and even thousands of employees.
 
 
 -
 #### Video Conference with Coworkers
-* Yeah, tech has that
-
-
-
-
-
-
-
-
-
-
-
--
-# You're right for tech if
-* The smartest person in the room.
-	* If you're the smartest person in the room, you're in the wrong room - Mark Cuban
+* Part of the telecommunication advancements in recent history
+* Remote video conference is becoming increasingly common
